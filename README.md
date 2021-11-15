@@ -6,10 +6,10 @@ We've been given a collection of .csv files to figure out the number of employee
 
 Results: 
 
-  -Determine the full list of employees that will be retiring soon. (retirement_info.csv)
-  -Determine the number of employees who will be retiring in each department. (retiring_titles.csv)
-  -Determine each soon-to-be retiring employee's current position to plan ahead on future hires. (titles.csv)
-  -Determine who would be eligible to be a mentor in the mentorship program to have them help train new hires. (mentorship_eligibility.csv)
+  1. Determine the full list of employees that will be retiring soon. (retirement_info.csv)
+  2. Determine the number of employees who will be retiring in each department. (retiring_titles.csv)
+  3. Determine each soon-to-be retiring employee's current position to plan ahead on future hires. (titles.csv)
+  4. Determine who would be eligible to be a mentor in the mentorship program to have them help train new hires. (mentorship_eligibility.csv)
 
 Summary:
 
