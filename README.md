@@ -5,6 +5,7 @@ Overview of the analysis:
 We've been given a collection of .csv files to figure out the number of employees that will soon be retiring. By determining this number beforehand, the company will be able to plan ahead and hire the needed amount of people so they would not have to experience any setbacks due to being understaffed.
 
 Results: 
+
   -Determine the full list of employees that will be retiring soon. (retirement_info.csv)
   -Determine the number of employees who will be retiring in each department. (retiring_titles.csv)
   -Determine each soon-to-be retiring employee's current position to plan ahead on future hires. (titles.csv)
